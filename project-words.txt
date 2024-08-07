@@ -253,3 +253,4 @@ tonumber
 noyaml
 nolint
 shortfile
+goyaml
